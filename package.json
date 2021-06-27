@@ -1,0 +1,28 @@
+{
+  "name": "koreacoin",
+  "version": "1.0.0",
+  "description": "\"# koreaCoin\"",
+  "main": "서버.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "hex-to-binary": "^1.0.1",
+    "lodash": "^4.17.21",
+    "ws": "^7.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/securekim/koreaCoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/securekim/koreaCoin/issues"
+  },
+  "homepage": "https://github.com/securekim/koreaCoin#readme"
+}
